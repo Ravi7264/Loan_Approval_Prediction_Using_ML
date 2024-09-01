@@ -9,7 +9,7 @@ This project aims to predict loan approval status using machine learning algorit
 - #usage
 - #models-used
 - #results
-- 
+  
 ## Introduction
 Loan approval is a critical process in the financial industry. This project applies machine learning to predict whether a loan will be approved or not, based on historical data. The prediction model can assist banks and financial institutions in making data-driven decisions.
 
